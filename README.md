@@ -5,18 +5,18 @@ A simple converter (arff -> csv)
 --- 
 Before:    
 ---
-├── arffToCSV.py
-├── cpu.arff
-└── README.md
-
+├── arffToCSV.py   
+├── cpu.arff   
+└── README.md   
+   
 ---
 After:
 ---
-├── arffToCSV.py
-├── cpu.arff
-├── csv
-│   └── cpu.csv
-└── README.md
+├── arffToCSV.py   
+├── cpu.arff   
+├── csv   
+│   └── cpu.csv   
+└── README.md   
 
 
 
